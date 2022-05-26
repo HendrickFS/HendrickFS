@@ -32,12 +32,10 @@
   
 ##
   
-<div style="display: inline_block" ><br>
+<div style="display: inline_block" align="center" ><br>
  <img alt="Samurai-pic" src="https://media.giphy.com/media/D6aoDE0OSYiYojubBW/giphy.gif" width="140" heigth="150"> 
  <img alt="Samurai-pic" src="https://media.giphy.com/media/D6aoDE0OSYiYojubBW/giphy.gif" width="140" heigth="150"> 
  <img alt="Samurai-pic" src="https://media.giphy.com/media/D6aoDE0OSYiYojubBW/giphy.gif" width="140" heigth="150"> 
  <img alt="Samurai-pic" src="https://media.giphy.com/media/D6aoDE0OSYiYojubBW/giphy.gif" width="140" heigth="150"> 
- <img alt="Samurai-pic" src="https://media.giphy.com/media/D6aoDE0OSYiYojubBW/giphy.gif" width="140" heigth="150"> 
- <img alt="Samurai-pic" src="https://media.giphy.com/media/D6aoDE0OSYiYojubBW/giphy.gif" width="140" heigth="150"> 
- <img alt="Samurai-pic" src="https://media.giphy.com/media/D6aoDE0OSYiYojubBW/giphy.gif" width="140" heigth="150"> 
+ <img alt="Samurai-pic" src="https://media.giphy.com/media/D6aoDE0OSYiYojubBW/giphy.gif" width="140" heigth="150">
 </div>
