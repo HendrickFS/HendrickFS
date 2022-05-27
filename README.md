@@ -1,9 +1,9 @@
-##  <img alt="Samurai-pic" src="https://media.giphy.com/media/7kjWGOS2MYYEPfSrPQ/giphy.gif" width="25" heigth="25"> Hendrick <img alt="Samurai-pic" src="https://media.giphy.com/media/7kjWGOS2MYYEPfSrPQ/giphy.gif" width="25" heigth="25">
+##  <img alt="Sakura-pic" src="https://media.giphy.com/media/Cst1R6D1yqXI45bz7t/giphy.gif" width="25" heigth="25"> Hendrick <img alt="Sakura-pic" src="https://media.giphy.com/media/Cst1R6D1yqXI45bz7t/giphy.gif" width="25" heigth="25">
 
- -  Main Interest: Games development
- -  Favorits Themes: Samurai and Cyberpunk
- -  Like Japanese Culture and History of ancient Japan
- -  Currently studing Computer Science at UTFPR-CM
+ -  Main Interest: Games development <img alt="Sakura-pic" src="https://media.giphy.com/media/Cst1R6D1yqXI45bz7t/giphy.gif" width="25" heigth="25">
+ -  Favorits Themes: Samurai and Cyberpunk <img alt="Sakura-pic" src="https://media.giphy.com/media/Cst1R6D1yqXI45bz7t/giphy.gif" width="25" heigth="25">
+ -  Like Japanese Culture and History of ancient Japan <img alt="Sakura-pic" src="https://media.giphy.com/media/Cst1R6D1yqXI45bz7t/giphy.gif" width="25" heigth="25">
+ -  Currently studing Computer Science at UTFPR-CM <img alt="Sakura-pic" src="https://media.giphy.com/media/Cst1R6D1yqXI45bz7t/giphy.gif" width="25" heigth="25">
 
 
 
@@ -33,6 +33,6 @@
 ##
   
 <div style="display: inline_block" align="center" ><br>
- <img alt="Samurai-pic" src="https://media.giphy.com/media/D6aoDE0OSYiYojubBW/giphy.gif" width="140" heigth="150"> 
- <img alt="Samurai-pic" src="https://media.giphy.com/media/D6aoDE0OSYiYojubBW/giphy.gif" width="140" heigth="150"> 
+ <img alt="Katana-pic" src="https://media.giphy.com/media/D6aoDE0OSYiYojubBW/giphy.gif" width="140" heigth="150"> 
+ <img alt="Katana-pic" src="https://media.giphy.com/media/D6aoDE0OSYiYojubBW/giphy.gif" width="140" heigth="150"> 
 </div>
