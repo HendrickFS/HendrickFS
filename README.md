@@ -1,6 +1,5 @@
 ##  <img alt="Sakura-pic" src="https://media.giphy.com/media/Cst1R6D1yqXI45bz7t/giphy.gif" width="25" heigth="25"> Hendrick <img alt="Sakura-pic" src="https://media.giphy.com/media/Cst1R6D1yqXI45bz7t/giphy.gif" width="25" heigth="25">
 
- -  Main Interest: Games development <img alt="Sakura-pic" src="https://media.giphy.com/media/Cst1R6D1yqXI45bz7t/giphy.gif" width="25" heigth="25">
  -  Graduated in the course of Integrated Technician in Informatics at UTFPR-CM (2017-2021)<img alt="Sakura-pic" src="https://media.giphy.com/media/Cst1R6D1yqXI45bz7t/giphy.gif" width="25" heigth="25">
  -  Currently studing Computer Science at UTFPR-CM (2022-2025)<img alt="Sakura-pic" src="https://media.giphy.com/media/Cst1R6D1yqXI45bz7t/giphy.gif" width="25" heigth="25">
 
