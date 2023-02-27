@@ -1,35 +1,54 @@
-##  <img alt="Sakura-pic" src="https://media.giphy.com/media/Cst1R6D1yqXI45bz7t/giphy.gif" width="25" heigth="25"> Hendrick <img alt="Sakura-pic" src="https://media.giphy.com/media/Cst1R6D1yqXI45bz7t/giphy.gif" width="25" heigth="25">
-
- -  Graduated in the course of Integrated Technician in Informatics at UTFPR-CM (2017-2021)
- -  Currently studing Computer Science at UTFPR-CM (2022-2025)
-
-
-
-  
-##
-  
-<div style="display: inline_block" ><br>
-  <img align="center" alt="Hendrick-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Hendrick-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Hendrick-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Hendrick-TS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Hendrick-JAVA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Hendrick-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Hendrick-PYTHON" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Hendrick-GD" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
+# ✌️ Sup, welcome to my profile 
+<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzQzMmZhMTkwOWNkZDMwMzU3OGMwODRiNzU4YWYxMjY0OGExNjQ0ZCZjdD1n/32BfxjvF1K6mPnHnuh/giphy.gif">
 </div>
-  
-  
-##
-  
-<div>
+
+# ⚠️Who is [Hendrick]:
+
+<img  hight="400" width="500" alt="GIF" align="right" src="https://media.giphy.com/media/9IQYNSvV0kISY/giphy.gif">
+
+### ⛩Professional side:
+ - 🌸19 years old **Computer Science** student at UTFPR-CM.
+ - 🌸**Technical high school on computing** at UTFPR-CM.
+ - 🌸Programming teacher.
+ - 🌸Backend developer.
+
+### ⛩Personal side:
+
+- 🌸**A professional overthinker**.
+- 🌸**Hobbies:**
+	- 🌺Watch animes.
+	- 🌺Read japanese mangas.
+- 🌸**Interests:**
+	- 🌺Researchs.
+	- 🌺Studies on international universities.
+
+ # 🛠Languages and tools:
+ <div>
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+ <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+ <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+ <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+ <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+ <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+ <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+ <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+ <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+ <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>
+ <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
+ <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+ <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+ </div>    
+ 
+ # 📱 Contacts:
+ <div>
   <a href="https://instagram.com/hendrick.fs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:hendrickfel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-  
-##
-  
-<div style="display: inline_block" align="center" ><br>
- <img alt="Katana-pic" src="https://media.giphy.com/media/D6aoDE0OSYiYojubBW/giphy.gif" width="140" heigth="150"> 
- <img alt="Katana-pic" src="https://media.giphy.com/media/D6aoDE0OSYiYojubBW/giphy.gif" width="140" heigth="150"> 
+
+---
+
+<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2QxMjIzOTQzYzZhOWY5M2FjZmU5NTQzMWYyNDQ5Y2U1YmE4NjhmNiZjdD1n/urBRLM0j0FqSH6M8yX/giphy.gif">
 </div>
