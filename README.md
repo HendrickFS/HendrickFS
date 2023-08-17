@@ -8,7 +8,7 @@
 <img  hight="400" width="500" alt="GIF" align="right" src="https://media.giphy.com/media/9IQYNSvV0kISY/giphy.gif">
 
 ### ⛩Professional side:
- - 🌸19 years old **Computer Science** student at UTFPR-CM.
+ - 🌸20 years old **Computer Science** student at UTFPR-CM.
  - 🌸**Technical high school on computing** graduated by UTFPR-CM.
  - 🌸Programming teacher.
  - 🌸Backend developer.
@@ -19,6 +19,7 @@
 - 🌸**Hobbies:**
 	- 🌺Watch animes.
 	- 🌺Read japanese mangas.
+ 	- 🌺Play games.
 - 🌸**Interests:**
 	- 🌺Researchs.
 	- 🌺Studies on international universities.
