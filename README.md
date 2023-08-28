@@ -10,8 +10,9 @@
 ### ⛩Professional side:
  - 🌸20 years old **Computer Science** student at UTFPR-CM.
  - 🌸**Technical high school on computing** graduated by UTFPR-CM.
- - 🌸Programming teacher.
  - 🌸Backend developer.
+ - 🌸Programming teacher.
+ - 🌸Current research: Creation of a note-taking application that engages users to take more notes using techniques of *game design* and *e-learning*, focused to college students.
 
 ### ⛩Personal side:
 
