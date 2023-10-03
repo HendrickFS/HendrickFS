@@ -14,7 +14,7 @@
  - 🌸**Technical high school on computing** graduated by UTFPR-CM.
  - 🌸Backend developer.
  - 🌸Programming teacher.
- - 🌸Current research: Development of a note-taking application that engages users to take more notes using techniques of *game design* and *e-learning*, focused to college students.
+ - 🌸Current research: Influence of _note-taking_ in software engineering.
 
 ### ⛩Personal side:
 
