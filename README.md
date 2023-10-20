@@ -14,13 +14,12 @@
  - 🌸**Technical high school on computing** graduated by UTFPR-CM.
  - 🌸Backend developer.
  - 🌸Programming teacher.
- - 🌸Current research: Influence of _note-taking_ in software engineering.
+ - 🌸Current research: _Note-taking_ use for learning in _software engineering_.
 
 ### ⛩Personal side:
 
 - 🌸**A professional overthinker**.
 - 🌸**Hobbies:**
-	- 🌺Watch animes.
 	- 🌺Read japanese mangas.
  	- 🌺Play games.
 - 🌸**Interests:**
