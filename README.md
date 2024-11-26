@@ -10,7 +10,7 @@
 
 
 ### ⛩Professional side:
- - 🌸20 years old **Computer Science** student at UTFPR-CM.
+ - 🌸21 years old **Computer Science** student at UTFPR-CM.
  - 🌸**Technical high school on computing** graduated by UTFPR-CM.
  - 🌸Backend developer.
  - 🌸Programming teacher.
