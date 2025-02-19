@@ -1,17 +1,18 @@
 # ✌️ Sup, welcome to my profile 
-
+<!---
 <div align="center">
 <img height="250" width="1000" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzQzMmZhMTkwOWNkZDMwMzU3OGMwODRiNzU4YWYxMjY0OGExNjQ0ZCZjdD1n/32BfxjvF1K6mPnHnuh/giphy.gif">
 </div>
-
+-->
 # ⚠️Who is [Hendrick]:
-
+<!---
 <img   width="500" alt="GIF" align="right" src="https://media.giphy.com/media/9IQYNSvV0kISY/giphy.gif">
-
+-->
 
 ### ⛩Professional side:
- - 🌸21 years old **Computer Science** student at UTFPR-CM.
- - 🌸**Technical high school on computing** graduated by UTFPR-CM.
+ - 🌸**Informatic** master's degree at IPB.
+ - 🌸**Computer Science** bachelor's degree at UTFPR.
+ - 🌸**Technical high school on computing** graduated by UTFPR.
  - 🌸Backend developer.
  - 🌸Programming teacher.
  - 🌸Current research: _Note-taking_ use for learning in _software engineering_.
@@ -55,7 +56,8 @@
 </div>
 
 ---
-
+<!---
 <div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2QxMjIzOTQzYzZhOWY5M2FjZmU5NTQzMWYyNDQ5Y2U1YmE4NjhmNiZjdD1n/urBRLM0j0FqSH6M8yX/giphy.gif">
 </div>
+-->
