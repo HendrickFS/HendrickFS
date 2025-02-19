@@ -9,23 +9,14 @@
 <img   width="500" alt="GIF" align="right" src="https://media.giphy.com/media/9IQYNSvV0kISY/giphy.gif">
 -->
 
-### ⛩Professional side:
  - 🌸**Informatic** master's degree at IPB.
  - 🌸**Computer Science** bachelor's degree at UTFPR.
  - 🌸**Technical high school on computing** graduated by UTFPR.
  - 🌸Backend developer.
  - 🌸Programming teacher.
+<!--
  - 🌸Current research: _Note-taking_ use for learning in _software engineering_.
-
-### ⛩Personal side:
-
-- 🌸**A professional overthinker**.
-- 🌸**Hobbies:**
-	- 🌺Read japanese mangas.
- 	- 🌺Play games.
-- 🌸**Interests:**
-	- 🌺Researchs.
-	- 🌺Studies on international universities.
+-->
 
 
  # 🛠Languages and tools:
