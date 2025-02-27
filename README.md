@@ -6,7 +6,7 @@
 
 # ⚠️Who is [Hendrick]:
 
-<img   width="500" alt="GIF" align="right" src="https://media.giphy.com/media/9IQYNSvV0kISY/giphy.gif">
+<img width="500" alt="GIF" align="right" src="https://media.giphy.com/media/9IQYNSvV0kISY/giphy.gif">
 
 
  - 🌸**Informatic** master's degree at IPB.
