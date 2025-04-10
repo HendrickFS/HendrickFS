@@ -12,11 +12,9 @@
  - 🌸**Informatic** master's degree at IPB.
  - 🌸**Computer Science** bachelor's degree at UTFPR.
  - 🌸**Technical high school on computing** graduated by UTFPR.
- - 🌸Backend developer.
- - 🌸Programming teacher.
 
- - 🌸Current research: _Note-taking_ use for learning in _software engineering_.
-
+ - 🌸Current research: _Digital Twin_ based solution for monitoring and data analysis of olive oil production.
+ - 🌸Research fields: **Cyber-Physical Systems** and **Internet of Things**
 
 
  # 🛠Languages and tools:
