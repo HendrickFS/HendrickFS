@@ -24,16 +24,17 @@
 
 **🎯 Current Research Focus**
 
-Developing innovative Digital Twin solutions for monitoring and data analysis in olive oil production processes
+<p>Developing innovative Digital Twin solutions for monitoring and data analysis in olive oil production processes</p>
 
 </td>
 <td align="center" width="50%">
 
 **🔬 Research Areas**
-- Cyber-Physical Systems
-- Internet of Things (IoT)
-- Industrial Data Analytics
-- Smart Manufacturing
+
+<p>🔧 Cyber-Physical Systems</p>
+<p>🌐 Internet of Things (IoT)</p>
+<p>📊 Industrial Data Analytics</p>
+<p>🏭 Smart Manufacturing</p>
 
 </td>
 </tr>
