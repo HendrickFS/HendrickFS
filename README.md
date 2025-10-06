@@ -4,39 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8FBC8F&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hendrick!+%F0%9F%91%8B;Research+%26+Development+Enthusiast;Digital+Twin+%26+IoT+Specialist;Gaming+%26+Guide+Writing+Lover" alt="Typing SVG" />
 
-<img height="250" width="1000" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzQzMmZhMTkwOWNkZDMwMzU3OGMwODRiNzU4YWYxMjY0OGExNjQ0ZCZjdD1n/32BfxjvF1K6mPnHnuh/giphy.gif">
-
 </div>
-
----
-
-## 💻 Tech Stack & Tools
-
-<div align="center">
-
-### 🌐 Frontend & Mobile
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-
-### 🖥️ Backend & Systems
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-
-### 🔌 IoT & Hardware
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
-<img src="https://img.shields.io/badge/Eclipse%20Ditto-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse Ditto" />
-
-### 📊 Data & Analytics
-<img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" alt="InfluxDB" />
-
-</div>
-
----
 
 ## 🔬 Research
 
@@ -86,6 +54,34 @@
 | **Master's in Informatics** | IPB | 📚 In Progress |
 | **Bachelor's in Computer Science** | UTFPR | ✅ Completed |
 | **Technical High School in Computing** | UTFPR | ✅ Completed |
+
+</div>
+
+---
+
+## 💻 Tech Stack & Tools
+
+<div align="center">
+
+### 🌐 Frontend & Mobile
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+
+### 🖥️ Backend & Systems
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+
+### 🔌 IoT & Hardware
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+<img src="https://img.shields.io/badge/Eclipse%20Ditto-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse Ditto" />
+
+### 📊 Data & Analytics
+<img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" alt="InfluxDB" />
 
 </div>
 
